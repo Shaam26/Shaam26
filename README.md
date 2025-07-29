@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi! I'm a CSE student passionate about coding and building real-world projects. I enjoy working with Java, JavaScript, HTML, and CSS, and I'm currently learning React and PostgreSQL. I love exploring new technologies and always look forward to growing as a developer.<br><br>
+# Hii👋 I am Shameem Banu
+💫About Me:
+ I'm a CSE student passionate about coding and building real-world projects. I enjoy working with Java, JavaScript, HTML, and CSS, and I'm currently learning React and PostgreSQL. I love exploring new technologies and always look forward to growing as a developer.<br><br>
 
 
 ## 🌐 Socials:
